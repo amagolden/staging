@@ -1,6 +1,6 @@
 import './App.css';
-import Header from '../components/header';
-import ImageForm from '../components/form';
+import Header from './components/header';
+import ImageForm from './components/form';
 
 function StagedPhoto() {
   return (

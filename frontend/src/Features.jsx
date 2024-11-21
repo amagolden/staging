@@ -1,6 +1,6 @@
 import './App.css';
-import Header from '../components/header';
-import Content from '../components/content';
+import Header from './components/header';
+import Content from './components/content';
 
 function Features() {
   return (
